@@ -1,0 +1,13 @@
+{
+  "compileOnSave": true,
+    "compilerOptions": {
+        "allowJs": true,
+        "target": "es5"
+    },
+    "include": [
+        "./app/**/*"
+    ],
+    "exclude":[
+      "node_modules"
+    ]
+}
